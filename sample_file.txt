@@ -1,0 +1,37 @@
+Hogwarts is my home
+a
+b
+
+s
+dsd
+sf
+sf
+sf
+sfe
+ferg
+In this example, if x is less than 0,
+the first condition is True and the corresponding block of
+ code will be executed. If x is not less than 0, the first condition
+ is False, so the program moves on to the next condition, x == 0.
+ If x is equal to 0, the second condition is True and its corresponding
+ block of code will be executed. If neither the first nor the second condition i
+ s True, the program will execute the code block associated with the "else" statement.
+
+The "elif" statement allows you to chain multiple conditions together and handle different
+ cases based on the evaluated conditions.
+ Hogwarts is my home
+a
+b
+
+s
+dsd
+sf
+sf
+sf
+sfe
+ferg
+In this example, if x is less than 0,
+the first condition is True and the corresponding block of
+ code will be executed. If x is not less than 0, the first condition
+ is False, so the program moves on to the next condition, x == 0.
+ If x is equal to 0, the second condition is True a
